@@ -1,0 +1,3 @@
+[submodule "nestor-web/themes/eternity"]
+	path = nestor-web/themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
